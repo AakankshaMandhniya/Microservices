@@ -1,1 +1,2 @@
-welcome=aaka
+greeting.message=welcome
+greeting.name=Aaks
