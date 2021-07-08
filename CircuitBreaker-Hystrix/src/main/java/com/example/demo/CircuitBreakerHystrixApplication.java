@@ -18,5 +18,4 @@ public class CircuitBreakerHystrixApplication {
 		SpringApplication.run(CircuitBreakerHystrixApplication.class, args);
 	}
 	
-
 }

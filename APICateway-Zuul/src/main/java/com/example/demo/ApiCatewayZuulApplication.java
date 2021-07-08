@@ -14,5 +14,4 @@ public class ApiCatewayZuulApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(ApiCatewayZuulApplication.class, args);
 	}
-
 }
